@@ -1,0 +1,54 @@
+#perfil{
+    
+    border-radius: 100%;
+    margin-top: 200px;
+}
+a {
+    text-decoration: none;
+    
+}
+#titulo{
+    font-size: 50px;
+    margin: 25px;
+}
+.pagina{
+    display: flex;  
+}
+#menu{
+    margin-top: 25px;
+    font-size: 25px;
+}
+#lista-conhecimentos{
+    margin-top: 150px;
+    padding-bottom: 150px;
+    font-size: 25px;
+    margin: 50px;
+    
+}
+#lista-index{
+    text-align: center;
+    margin-top: 250px;
+    font-size: 25px;
+    margin-left: 25px;
+    justify-content: center;
+    align-items: center;
+    
+}
+#linkexterno{
+    border: solid 1px none;
+    border-radius: 100%;
+}
+#picture{
+    margin: 50px;
+    border: solid 1px none;
+}
+.bloco1{
+    
+    border-width: 100% 1px;
+    background-color: brown;
+    padding: 30px;
+    text-align: center;
+    height: 700px;
+    
+    
+}
